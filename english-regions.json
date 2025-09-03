@@ -14,7 +14,7 @@
               51, 52, 53, 54, 55, 56, 57, 58, 59
             ]
           ],
-          "properties": { "EER13NM": "Midlands" }
+          "properties": { "Name": "Midlands" }
         },
         {
           "type": "MultiPolygon",
@@ -29,7 +29,7 @@
             [[67]],
             [[68, 69, 70, 71, 72, 73, 74]]
           ],
-          "properties": { "EER13NM": "Greater London" }
+          "properties": { "Name": "Greater London" }
         },
         {
           "type": "MultiPolygon",
@@ -85,7 +85,7 @@
               ]
             ]
           ],
-          "properties": { "EER13NM": "South East" }
+          "properties": { "Name": "South East" }
         },
         {
           "type": "MultiPolygon",
@@ -119,7 +119,7 @@
               ]
             ]
           ],
-          "properties": { "EER13NM": "North West" }
+          "properties": { "Name": "North West" }
         },
         {
           "type": "MultiPolygon",
@@ -157,7 +157,7 @@
             ],
             [[264]]
           ],
-          "properties": { "EER13NM": "North East" }
+          "properties": { "Name": "North East" }
         },
         {
           "type": "MultiPolygon",
@@ -251,7 +251,7 @@
             ],
             [[521]]
           ],
-          "properties": { "EER13NM": "East Anglia" }
+          "properties": { "Name": "East Anglia" }
         },
         {
           "type": "MultiPolygon",
@@ -354,13 +354,13 @@
               ]
             ]
           ],
-          "properties": { "EER13NM": "South West" }
+          "properties": { "Name": "South West" }
         },
         {
           "type": "Polygon",
           "arcs": [[625]],
           "id": 7,
-          "properties": { "EER13NM": "IM" }
+          "properties": { "Name": "IM" }
         }
       ]
     }
