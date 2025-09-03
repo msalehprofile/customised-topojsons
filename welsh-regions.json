@@ -1,7 +1,7 @@
 {
   "type": "Topology",
   "objects": {
-    "eer": {
+    "collection": {
       "type": "GeometryCollection",
       "crs": {
         "type": "name",
@@ -11,9 +11,7 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "EER13CD": "W08000001",
-            "EER13CDO": "10",
-            "EER13NM": "Wales"
+            "Name": "Wales"
           },
           "id": "W08000001",
           "arcs": [
